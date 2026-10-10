@@ -1,0 +1,8 @@
+# Підручник цілком: 145 МБ чужого тексту, у репозиторії йому не місце.
+# Лежить локально, шлях до нього — у .claude/skills/zarlit6-materials/SKILL.md.
+*.pdf
+
+# Сміття ОС
+.DS_Store
+Thumbs.db
+desktop.ini
